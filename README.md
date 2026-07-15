@@ -22,10 +22,13 @@ A full-stack web application developed as a graduation project to facilitate cou
 Import the provided SQL file into MySQL before running the project.
 ## Screenshots
 
-![Home Page](./assets/home.jpeg)
+### Home Page
+![Home Page](home.jpeg)
 
-![Courses Page](./assets/courses.jpeg)
+### Courses Page
+![Courses Page](courses.jpeg)
 
-![Events Page](./assets/events.jpeg)
+### Events Page
+![Events Page](events.jpeg)
 ## Author
 Aljwhrah Alshammari
