@@ -23,13 +23,12 @@ Import the provided SQL file into MySQL before running the project.
 ## Screenshots
 
 ### Home Page
-![Home Page](assets/home.png)
+![Home Page](assets/home.jpeg)
 
 ### Courses Page
-![Courses Page](assets/courses.png)
+![Courses Page](assets/courses.jpeg)
 
 ### Events Page
-![Events Page](assets/events.png)
-
+![Events Page](assets/events.jpeg)
 ## Author
 Aljwhrah Alshammari
